@@ -1,4 +1,4 @@
-# server
+# REST API
 
 To install dependencies:
 
@@ -13,3 +13,8 @@ bun run start
 ```
 
 This project was created using `bun init` in bun v1.1.30. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+
+
+# URL
+[Localhost:3049/api/posts](http://localhost:3049/api/posts)
+Check in postman
